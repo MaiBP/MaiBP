@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **maira_pajaro@hotmail.com**
 
-- ⚡ Fun fact **I was a semi-professional football player & my last name translates to "Bird" in english **
+- ⚡ Fun fact **I was a semi-professional football player & my last name translates to "Bird"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
