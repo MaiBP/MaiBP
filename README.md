@@ -1,4 +1,5 @@
-[![MasterHead](https://s24787.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://github.com/MaiBP)
+<!-- [![MasterHead](https://s24787.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://github.com/MaiBP) -->
+<img align="center" alt="banner" height="400" width="900" src="https://s24787.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif"/>
 <h1 align="center">Hi 👋, I'm Maira Pajaro</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474k2ykuda7rgjoflo7o2oup1qjgefg0am1bvqd4w7&rid=giphy.gif&ct=g"/>
