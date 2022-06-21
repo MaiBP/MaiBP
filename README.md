@@ -1,7 +1,7 @@
 [![MasterHead](https://s24787.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://github.com/MaiBP)
 <h1 align="center">Hi 👋, I'm Maira Pajaro</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474k2ykuda7rgjoflo7o2oup1qjgefg0am1bvqd4w7&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474k2ykuda7rgjoflo7o2oup1qjgefg0am1bvqd4w7&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maibp&label=Profile%20views&color=0e75b6&style=flat" alt="maibp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maipajaro" target="blank"><img src="https://img.shields.io/twitter/follow/maipajaro?logo=twitter&style=for-the-badge" alt="maipajaro" /></a> </p>
