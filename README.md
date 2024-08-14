@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/maipajaro" target="blank"><img src="https://img.shields.io/twitter/follow/maipajaro?logo=twitter&style=for-the-badge" alt="maipajaro" /></a> </p>
 
-- 🔭 I’m currently working on [Clothing-Ecommerce](https://github.com/MaiBP/ClothingEcommerce)
+//- 🔭 I’m currently working on [Clothing-Ecommerce](https://github.com/MaiBP/ClothingEcommerce)
 
-- 🌱 I’m currently learning **Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)**
+// 🌱 I’m currently learning **Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)**
 
 - 📫 How to reach me **maira_pajaro@hotmail.com**
 
