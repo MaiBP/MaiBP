@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi 👋, I'm Maira Pajaro<img align="right" alt="Coding" width="150" height="100" style=border-radius: 20px" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474k2ykuda7rgjoflo7o2oup1qjgefg0am1bvqd4w7&rid=giphy.gif&ct=g"/></h1>
 
-<h3 align="left"> A passionate Developer and IT analyst</h3><h4 align="left">⚡ Fun fact: My last name translates to Bird </h4>
+<h3 align="left"> A passionate Developer and IT analyst</h3><h4 align="left">⚡ Fun fact: My last name translates to Bird and I was a profesional football player ⚽</h4>
 
 <div><h3 align="left">Let´s connect!</h3>
 <p><a href="https://linkedin.com/in/mairapajaro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mairapajaro" height="20" width="30" /></a></p>
