@@ -1,38 +1,47 @@
-<!--[![MasterHead](https://user-images.githubusercontent.com/86882630/183076490-06fd5ae9-dc0f-4346-ae61-66111333b766.gif)](https://github.com/MaiBP)--> 
-[![MasterHead](https://s24787.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://github.com/MaiBP)
-<!-- <img align="center" alt="banner" height="400" width="900" src="https://s24787.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif"/> -->
+<h1 align="left">Maira Belen Pajaro Aviles</h1>
 
-<h1 align="left">Hi 👋, I'm Maira Pajaro<img align="right" alt="Coding" width="150" height="100" style=border-radius: 20px" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474k2ykuda7rgjoflo7o2oup1qjgefg0am1bvqd4w7&rid=giphy.gif&ct=g"/></h1>
+<p align="left">
+  Developer & IT Analyst · Barcelona
+</p>
 
-<h3 align="left"> A passionate Developer and IT analyst</h3><h4 align="left">⚡ Fun fact: My last name translates to Bird and I was a profesional football player ⚽</h4>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mairapajaro/"><img src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/MaiPajaro"><img src="https://img.shields.io/badge/X-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+</p>
 
-<div><h3 align="left">Let´s connect!</h3>
-<p><a href="https://linkedin.com/in/mairapajaro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mairapajaro" height="20" width="30" /></a></p>
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maibp&show_icons=true&locale=en&layout=compact" alt="maibp" /></p>
+---
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></p>
+I build web applications end to end. Lately I've been working on AI-assisted tools with Claude Code. I like turning messy business problems into simple, reliable software.
 
+Before tech I was a professional football player. I still work like an athlete: I value teamwork and discipline, and I keep improving bit by bit.
 
+### Now
 
+- 🐷 Building **[Miti-Miti](https://miti-miti.com)**, a finance app for couples. You log expenses by chatting with Piggy, an AI assistant, using text, voice or a photo of a receipt.
+- 🤖 Building **[professional-twin](https://github.com/MaiBP/professional-twin)**, an AI-powered professional twin framework on Claude Code
+- 🎂 Maintaining **[demiparatipasteleria.com](https://demiparatipasteleria.com)**, a TypeScript site for an artisan cake business
 
+### Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,postgres,supabase,tailwind,git,vercel&theme=dark" alt="Tech stack" />
+</p>
 
+<p align="left">
+  <img src="./assets/claude-code.svg" width="48" height="48" alt="Claude Code" title="Claude Code" />
+  <img src="./assets/codex.svg" width="48" height="48" alt="Codex" title="Codex" />
+</p>
 
+### Selected work
 
+| Project | What | Tech |
+|---|---|---|
+| [Miti-Miti](https://miti-miti.com) | Shared finances for couples, with an AI assistant, a shared home and private spaces, encrypted data, and Stripe subscriptions | Next.js · TypeScript · Supabase · OpenAI · Stripe |
+| [professional-twin](https://github.com/MaiBP/professional-twin) | AI professional twin framework | JavaScript · Claude Code |
+| [demiparati_pasteleria](https://github.com/MaiBP/demiparati_pasteleria) | Production site for a custom-cake business | TypeScript |
+| [Customer Service Manager](https://github.com/MaiBP/MaiBP-customerServiceManager_AngularApp_Frontend) | Full-stack support management tool | Angular · Node.js |
+| [PI-Videogames](https://github.com/MaiBP/PI-Videogames) | Video game catalog SPA | React · Redux · Express · PostgreSQL |
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<sub>Fun fact: *pájaro* means "bird" in Spanish 🐦</sub>
