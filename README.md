@@ -39,8 +39,6 @@ Before tech I was a professional football player. I still work like an athlete: 
 | [Miti-Miti](https://miti-miti.com) | Shared finances for couples, with an AI assistant, a shared home and private spaces, encrypted data, and Stripe subscriptions | Next.js · TypeScript · Supabase · OpenAI · Stripe |
 | [professional-twin](https://github.com/MaiBP/professional-twin) | AI professional twin framework | JavaScript · Claude Code |
 | [demiparati_pasteleria](https://github.com/MaiBP/demiparati_pasteleria) | Production site for a custom-cake business | TypeScript |
-| [Customer Service Manager](https://github.com/MaiBP/MaiBP-customerServiceManager_AngularApp_Frontend) | Full-stack support management tool | Angular · Node.js |
-| [PI-Videogames](https://github.com/MaiBP/PI-Videogames) | Video game catalog SPA | React · Redux · Express · PostgreSQL |
 
 ---
 
