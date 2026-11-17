@@ -24,7 +24,7 @@ Before tech I was a professional football player. I still work like an athlete: 
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,postgres,supabase,tailwind,git,vercel&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,postgres,supabase,firebase,tailwind,git,vercel&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="left">
@@ -38,7 +38,7 @@ Before tech I was a professional football player. I still work like an athlete: 
 |---|---|---|
 | [Miti-Miti](https://miti-miti.com) | Shared finances for couples, with an AI assistant, a shared home and private spaces, encrypted data, and Stripe subscriptions | Next.js · TypeScript · Supabase · OpenAI · Stripe |
 | [professional-twin](https://github.com/MaiBP/professional-twin) | AI professional twin framework | JavaScript · Claude Code |
-| [Mai & Cris Gender Reveal](https://www.maiycrisgenderreveal.com/landing) | Interactive gender-reveal game I built during my pregnancy so family and friends around the world could share the moment online | Next.js · Vercel |
+| [Mai & Cris Gender Reveal](https://www.maiycrisgenderreveal.com/landing) | Interactive gender-reveal game I built during my pregnancy so family and friends around the world could share the moment online | Next.js · Firebase · Vercel |
 | [demiparati_pasteleria](https://github.com/MaiBP/demiparati_pasteleria) | Production site for a custom-cake business | TypeScript |
 
 ---
